@@ -1,0 +1,501 @@
+Incident ID,Incident Date,State,City Or County,Killed,Injured,Latitude,Longitude,Month,Year
+1656873,11-Apr-20,California,Bakersfield,0,6,35.367,-119.017,Apr,2020
+1656265,10-Apr-20,Michigan,Muskegon,0,4,43.23417,-86.24833,Apr,2020
+1655674,8-Apr-20,Michigan,Detroit,0,4,42.33139,-83.04583,Apr,2020
+1656373,8-Apr-20,Alaska,Anchorage,0,4,61.217,-149.9,Apr,2020
+1654971,8-Apr-20,South Carolina,Greenwood,1,3,34.19528,-82.16167,Apr,2020
+1654341,7-Apr-20,Illinois,Chicago,1,3,41.88194,-87.62778,Apr,2020
+1652642,5-Apr-20,New York,Brooklyn,0,4,40.62472,-73.95222,Apr,2020
+1652734,5-Apr-20,California,Los Angeles,1,3,34.05,-118.25,Apr,2020
+1653012,5-Apr-20,South Carolina,Lancaster,1,4,34.72111,-80.77333,Apr,2020
+1652601,4-Apr-20,Texas,Vidor,0,4,30.13139,-93.99639,Apr,2020
+1652328,4-Apr-20,Florida,Hialeah,1,4,25.86056,-80.29389,Apr,2020
+1652073,4-Apr-20,Texas,Lubbock,2,2,33.57778,-101.89,Apr,2020
+1651742,3-Apr-20,Kentucky,Louisville,0,4,38.22533,-85.7417,Apr,2020
+1649473,31-Mar-20,Georgia,Macon,3,1,32.83472,-83.65167,Mar,2020
+1648832,30-Mar-20,Pennsylvania,Philadelphia,0,5,39.95278,-75.16361,Mar,2020
+1648205,29-Mar-20,Georgia,Atlanta,0,4,33.755,-84.39,Mar,2020
+1647661,28-Mar-20,Maryland,Baltimore,1,3,39.283,-76.617,Mar,2020
+1644111,23-Mar-20,Texas,San Antonio,0,4,29.425,-98.49389,Mar,2020
+1643775,22-Mar-20,South Carolina,Hanahan,0,4,32.91694,-79.99583,Mar,2020
+1643157,20-Mar-20,Virginia,Norfolk,0,4,36.8508,-76.2859,Mar,2020
+1642826,20-Mar-20,Missouri,Saint Louis,0,4,38.627,-90.1994,Mar,2020
+1641923,18-Mar-20,Florida,Jacksonville,1,4,30.33694,-81.66139,Mar,2020
+1641216,17-Mar-20,Maryland,Baltimore,0,7,39.283,-76.617,Mar,2020
+1640317,15-Mar-20,Missouri,Springfield,5,2,37.21528,-93.29833,Mar,2020
+1640295,15-Mar-20,North Carolina,Moncure,7,0,35.62278,-79.07833,Mar,2020
+1640007,14-Mar-20,Michigan,Saginaw,2,2,43.41778,-83.96444,Mar,2020
+1639542,14-Mar-20,New Mexico,Albuquerque,1,3,35.11083,-106.61,Mar,2020
+1639413,13-Mar-20,Illinois,Rockford,0,4,42.25944,-89.06444,Mar,2020
+1640278,13-Mar-20,Louisiana,New Orleans (Algiers),0,5,29.95,-90.08,Mar,2020
+1637520,10-Mar-20,Pennsylvania,Chester,2,2,39.84722,-75.37278,Mar,2020
+1635796,8-Mar-20,Maryland,Rosedale,1,5,39.32833,-76.51111,Mar,2020
+1636471,8-Mar-20,Illinois,South Holland,0,4,41.6,-87.6,Mar,2020
+1636564,8-Mar-20,California,Ceres,1,3,37.60139,-120.95722,Mar,2020
+1635750,7-Mar-20,Ohio,Cleveland,1,18,41.48222,-81.66972,Mar,2020
+1635570,7-Mar-20,New Mexico,Albuquerque,0,4,35.11083,-106.61,Mar,2020
+1635411,7-Mar-20,Illinois,Chicago,0,7,41.88194,-87.62778,Mar,2020
+1635118,6-Mar-20,District of Columbia,Washington,0,6,38.9072,-77.0369,Mar,2020
+1634128,4-Mar-20,California,Tulare,1,5,36.20667,-119.3425,Mar,2020
+1631040,29-Feb-20,Missouri,Kansas City,1,4,39.09972,-94.57833,Feb,2020
+1631831,29-Feb-20,Colorado,Brighton,0,5,39.96479,-104.796581,Feb,2020
+1629488,26-Feb-20,Wisconsin,Milwaukee,6,0,43.05,-87.95,Feb,2020
+1629042,25-Feb-20,Illinois,Chicago,1,4,41.88194,-87.62778,Feb,2020
+1627713,23-Feb-20,Texas,Houston,0,7,29.76278,-95.38306,Feb,2020
+1627335,23-Feb-20,North Carolina,Clarkton,3,1,34.48944,-78.65667,Feb,2020
+1625553,20-Feb-20,Idaho,Caldwell,2,3,43.65833,-116.68028,Feb,2020
+1625787,20-Feb-20,North Carolina,Greensboro,0,4,36.08,-79.81944,Feb,2020
+1623696,17-Feb-20,Mississippi,Port Gibson,2,2,31.95611,-90.98306,Feb,2020
+1622962,16-Feb-20,Florida,Pensacola,1,4,30.433,-87.2,Feb,2020
+1622406,16-Feb-20,Connecticut,Hartford,1,5,41.7625,-72.67417,Feb,2020
+1622233,15-Feb-20,Tennessee,Memphis,0,7,35.1175,-89.97111,Feb,2020
+1622340,15-Feb-20,Louisiana,New Orleans,0,4,29.95,-90.08,Feb,2020
+1621821,14-Feb-20,Illinois,Chicago,0,6,41.88194,-87.62778,Feb,2020
+1619064,10-Feb-20,Delaware,Dover,1,4,39.15806,-75.52444,Feb,2020
+1616964,8-Feb-20,Texas,Houston,1,3,29.76278,-95.38306,Feb,2020
+1615155,5-Feb-20,Indiana,Indianapolis,4,0,39.76861,-86.15806,Feb,2020
+1612716,3-Feb-20,California,Lebec,1,5,34.83733,-118.86362,Feb,2020
+1613020,3-Feb-20,Maine,Machias,3,1,44.683,-67.467,Feb,2020
+1612597,1-Feb-20,Mississippi,Philadelphia,0,4,32.77417,-89.11278,Feb,2020
+1611563,31-Jan-20,California,Delano,1,4,35.76889,-119.24694,Jan,2020
+1611037,31-Jan-20,Florida,Boynton Beach,1,3,26.52806,-80.07639,Jan,2020
+1610782,31-Jan-20,Louisiana,Shreveport,0,4,32.51472,-93.74722,Jan,2020
+1610240,30-Jan-20,California,Merced,0,4,37.3,-120.483,Jan,2020
+1606554,27-Jan-20,Connecticut,Bridgeport,0,4,41.18639,-73.19556,Jan,2020
+1605948,26-Jan-20,Missouri,Cape Girardeau,0,5,37.30917,-89.54639,Jan,2020
+1605752,26-Jan-20,South Carolina,Hartsville,3,3,34.36944,-80.08083,Jan,2020
+1605798,26-Jan-20,New York,Newburgh,3,1,41.51972,-74.02139,Jan,2020
+1605770,26-Jan-20,North Carolina,Salisbury,0,6,35.66833,-80.47861,Jan,2020
+1606476,24-Jan-20,North Carolina,Vanceboro,5,0,35.30389,-77.15222,Jan,2020
+1603241,22-Jan-20,Washington,Seattle,1,7,47.60972,-122.33306,Jan,2020
+1600221,19-Jan-20,Tennessee,Memphis,1,4,35.1175,-89.97111,Jan,2020
+1600522,19-Jan-20,Texas,San Antonio,2,5,29.425,-98.49389,Jan,2020
+1600787,19-Jan-20,Missouri,Kansas City,2,15,39.09972,-94.57833,Jan,2020
+1600350,19-Jan-20,Texas,South Houston,2,2,29.66111,-95.22972,Jan,2020
+1599331,17-Jan-20,Utah,Grantsville,4,1,40.59583,-112.46528,Jan,2020
+1598447,16-Jan-20,Illinois,Chicago,0,5,41.88194,-87.62778,Jan,2020
+1594173,11-Jan-20,Colorado,Aurora,0,5,39.71083,-104.8125,Jan,2020
+1592655,8-Jan-20,Mississippi,Bay Saint Louis,2,2,30.31472,-89.34417,Jan,2020
+1588919,5-Jan-20,Georgia,Atlanta,0,4,33.755,-84.39,Jan,2020
+1588308,4-Jan-20,Florida,Ocala,1,3,29.18778,-82.13056,Jan,2020
+1586839,2-Jan-20,New York,Brooklyn,0,4,40.62472,-73.95222,Jan,2020
+1585746,1-Jan-20,Ohio,Cleveland,0,4,41.48222,-81.66972,Jan,2020
+1585394,1-Jan-20,West Virginia,Huntington,0,7,38.42083,-82.42361,Jan,2020
+1585894,1-Jan-20,Missouri,Saint Louis,3,2,38.627,-90.1994,Jan,2020
+1582816,29-Dec-19,Illinois,Danville,0,5,40.12444,-87.63,Dec,2019
+1582197,29-Dec-19,New York,Buffalo,1,3,42.90472,-78.84944,Dec,2019
+1583444,29-Dec-19,California,Ceres,0,5,37.60139,-120.95722,Dec,2019
+1581590,27-Dec-19,California,Modesto,1,3,37.66139,-120.99444,Dec,2019
+1581476,27-Dec-19,Georgia,Kennesaw,0,4,34.02333,-84.61528,Dec,2019
+1581103,27-Dec-19,Texas,Houston,2,7,29.76278,-95.38306,Dec,2019
+1580308,26-Dec-19,Florida,Saint Petersburg,0,5,27.77306,-82.64,Dec,2019
+1579889,25-Dec-19,California,Oakland,0,4,37.80444,-122.27083,Dec,2019
+1579970,25-Dec-19,Iowa,Coralville,1,3,41.68833,-91.58667,Dec,2019
+1579856,25-Dec-19,Virginia,Richmond,1,3,37.533,-77.467,Dec,2019
+1579266,24-Dec-19,Louisiana,New Orleans,0,4,29.95,-90.08,Dec,2019
+1594317,24-Dec-19,Illinois,Joliet,0,5,41.52056,-88.15056,Dec,2019
+1579220,24-Dec-19,North Carolina,High Point,0,6,35.97056,-79.9975,Dec,2019
+1577577,22-Dec-19,Maryland,Baltimore,0,7,39.283,-76.617,Dec,2019
+1577688,22-Dec-19,Minnesota,Minneapolis (Spring Lake Park),1,7,44.98194,-93.26917,Dec,2019
+1577518,22-Dec-19,Illinois,Chicago,0,13,41.88194,-87.62778,Dec,2019
+1578711,21-Dec-19,Louisiana,Edgard,0,4,30.03389,-90.55389,Dec,2019
+1577046,20-Dec-19,Mississippi,Waynesboro,1,6,31.67389,-88.64361,Dec,2019
+1577438,20-Dec-19,Alabama,Tuskegee,2,2,32.43139,-85.70667,Dec,2019
+1575175,18-Dec-19,Texas,San Antonio,0,4,29.425,-98.49389,Dec,2019
+1573754,17-Dec-19,Montana,Great Falls,4,1,47.50361,-111.28639,Dec,2019
+1572275,15-Dec-19,Georgia,Columbus,1,4,32.49222,-84.94028,Dec,2019
+1573471,14-Dec-19,California,Ivanhoe,0,4,36.38778,-119.21917,Dec,2019
+1571348,12-Dec-19,Missouri,Saint Louis (Moline Acres),1,3,38.627,-90.1994,Dec,2019
+1568230,10-Dec-19,New Jersey,Jersey City,6,3,40.714,-74.071,Dec,2019
+1567932,8-Dec-19,Texas,Desoto,2,3,32.59917,-96.85889,Dec,2019
+1567231,8-Dec-19,Louisiana,New Orleans,1,4,29.95,-90.08,Dec,2019
+1565216,6-Dec-19,Florida,Pensacola,4,8,30.433,-87.2,Dec,2019
+1564524,4-Dec-19,Alabama,Montgomery,2,2,32.36167,-86.27917,Dec,2019
+1562043,1-Dec-19,Louisiana,Cotton Valley,2,3,32.81444,-93.42139,Dec,2019
+1561966,1-Dec-19,Louisiana,New Orleans,2,2,29.95,-90.08,Dec,2019
+1561813,1-Dec-19,Illinois,Aurora,1,4,41.76389,-88.29,Dec,2019
+1562685,1-Dec-19,Michigan,Kalamazoo,1,3,42.29,-85.58583,Dec,2019
+1561734,1-Dec-19,Louisiana,New Orleans,0,12,29.95,-90.08,Dec,2019
+1561398,30-Nov-19,Arkansas,Hensley,0,5,34.50444,-92.20417,Nov,2019
+1560645,29-Nov-19,Texas,Amarillo,0,7,35.19917,-101.84528,Nov,2019
+1559257,27-Nov-19,New York,Bronx,0,5,40.83722,-73.88611,Nov,2019
+1558067,25-Nov-19,Florida,Brownsville,2,2,25.82139,-80.24028,Nov,2019
+1557006,24-Nov-19,Alabama,Birmingham,1,4,33.65333,-86.80889,Nov,2019
+1556633,24-Nov-19,California,Los Angeles,0,6,34.05,-118.25,Nov,2019
+1556984,24-Nov-19,Louisiana,Cottonport,2,2,30.98833,-92.05306,Nov,2019
+1555879,23-Nov-19,California,Los Angeles,0,4,34.05,-118.25,Nov,2019
+1556002,23-Nov-19,Louisiana,Tallulah,1,6,32.40861,-91.18667,Nov,2019
+1555135,21-Nov-19,California,Long Beach,0,5,33.76833,-118.19556,Nov,2019
+1554807,21-Nov-19,Washington,Everett,0,4,47.96333,-122.20056,Nov,2019
+1554446,20-Nov-19,California,Richmond,0,4,37.93583,-122.34778,Nov,2019
+1552068,18-Nov-19,New Jersey,Newark,1,4,40.72,-74.17,Nov,2019
+1551531,17-Nov-19,California,Fresno,4,6,36.75,-119.767,Nov,2019
+1551162,17-Nov-19,Ohio,Cleveland,0,4,41.48222,-81.66972,Nov,2019
+1550546,16-Nov-19,California,San Diego,6,0,32.715,-117.1625,Nov,2019
+1548689,14-Nov-19,California,Santa Clarita,3,3,34.42,-118.52,Nov,2019
+1547021,11-Nov-19,Florida,Belle Glade,0,4,26.68528,-80.67139,Nov,2019
+1546102,10-Nov-19,Missouri,Kansas City,0,4,39.09972,-94.57833,Nov,2019
+1546038,10-Nov-19,Tennessee,Memphis,1,4,35.1175,-89.97111,Nov,2019
+1546155,10-Nov-19,Arkansas,Little Rock,0,4,34.73611,-92.33111,Nov,2019
+1545955,9-Nov-19,Michigan,Detroit,0,4,42.33139,-83.04583,Nov,2019
+1546508,9-Nov-19,Georgia,Vidalia,0,4,32.21528,-82.41,Nov,2019
+1545027,8-Nov-19,North Carolina,Raleigh,1,3,35.767,-78.633,Nov,2019
+1543835,7-Nov-19,Georgia,Conyers,2,3,33.66639,-84.0075,Nov,2019
+1541774,4-Nov-19,Texas,Houston,1,4,29.76278,-95.38306,Nov,2019
+1540863,3-Nov-19,Ohio,Toledo,0,4,41.66556,-83.57528,Nov,2019
+1540841,3-Nov-19,Texas,Nacogdoches,1,3,31.60889,-94.65083,Nov,2019
+1540280,2-Nov-19,Louisiana,Baton Rouge,0,4,30.449493,-91.093399,Nov,2019
+1540240,2-Nov-19,Michigan,Detroit,1,4,42.33139,-83.04583,Nov,2019
+1539572,1-Nov-19,Arizona,Tolleson,0,5,33.45,-112.25944,Nov,2019
+1539557,1-Nov-19,Texas,San Angelo,0,4,31.44278,-100.45028,Nov,2019
+1539347,31-Oct-19,California,Orinda,5,3,37.88278,-122.17972,Oct,2019
+1537992,30-Oct-19,Pennsylvania,Philadelphia,4,0,39.95278,-75.16361,Oct,2019
+1537672,29-Oct-19,California,Long Beach,3,9,33.76833,-118.19556,Oct,2019
+1537044,29-Oct-19,Maryland,Baltimore,1,3,39.283,-76.617,Oct,2019
+1536787,28-Oct-19,Maryland,Baltimore,1,3,39.283,-76.617,Oct,2019
+1536706,27-Oct-19,Michigan,Detroit,0,4,42.33139,-83.04583,Oct,2019
+1535629,27-Oct-19,Michigan,Lansing,1,4,42.73361,-84.54667,Oct,2019
+1535478,26-Oct-19,Texas,Greenville,2,6,33.12611,-96.10972,Oct,2019
+1534704,24-Oct-19,Oklahoma,Oklahoma City,2,2,35.46861,-97.52139,Oct,2019
+1533166,22-Oct-19,Oklahoma,Oklahoma City (Midwest City),1,3,35.46861,-97.52139,Oct,2019
+1531326,21-Oct-19,South Carolina,Sumter,0,4,33.92694,-80.36361,Oct,2019
+1530965,20-Oct-19,Texas,Port Arthur,1,3,29.885,-93.94,Oct,2019
+1530407,19-Oct-19,Pennsylvania,Duquesne,0,4,40.37309,-79.84695,Oct,2019
+1530276,19-Oct-19,Texas,El Paso,1,4,31.75917,-106.48861,Oct,2019
+1527528,15-Oct-19,Ohio,Columbus,0,4,39.96222,-83.00056,Oct,2019
+1525999,13-Oct-19,Pennsylvania,Philadelphia,0,6,39.95278,-75.16361,Oct,2019
+1526952,13-Oct-19,Ohio,Akron,0,4,41.07306,-81.51778,Oct,2019
+1525062,12-Oct-19,New York,Brooklyn,4,3,40.62472,-73.95222,Oct,2019
+1525476,12-Oct-19,Illinois,Chicago,5,0,41.88194,-87.62778,Oct,2019
+1525408,12-Oct-19,Pennsylvania,Philadelphia,1,3,39.95278,-75.16361,Oct,2019
+1525628,12-Oct-19,Maryland,Baltimore,1,3,39.283,-76.617,Oct,2019
+1525265,12-Oct-19,Michigan,Eastpointe,1,5,42.46611,-82.94639,Oct,2019
+1523606,10-Oct-19,Florida,Tampa,2,2,27.96806,-82.47639,Oct,2019
+1524264,10-Oct-19,Pennsylvania,Philadelphia,0,5,39.95278,-75.16361,Oct,2019
+1522979,9-Oct-19,Massachusetts,Lowell,0,5,42.63944,-71.31472,Oct,2019
+1523204,9-Oct-19,Maryland,Baltimore,1,3,39.283,-76.617,Oct,2019
+1521226,7-Oct-19,Massachusetts,Abington,5,0,42.10472,-70.94583,Oct,2019
+1520499,6-Oct-19,Colorado,Denver,0,4,39.7392,-104.9903,Oct,2019
+1520330,6-Oct-19,Kansas,Kansas City,4,5,39.10667,-94.67639,Oct,2019
+1520425,6-Oct-19,Indiana,Evansville,0,5,37.97722,-87.55056,Oct,2019
+1520547,5-Oct-19,Missouri,Saint Louis,0,5,38.627,-90.1994,Oct,2019
+1519090,3-Oct-19,North Carolina,Roxboro,1,3,36.39167,-78.98194,Oct,2019
+1518859,3-Oct-19,Missouri,Marshall,1,3,39.11611,-93.19778,Oct,2019
+1517804,1-Oct-19,Missouri,Saint Louis,0,4,38.627,-90.1994,Oct,2019
+1515312,29-Sep-19,Illinois,Round Lake (Round Lake Park),1,3,42.35416683,-88.10055583,Sep,2019
+1515242,29-Sep-19,Wisconsin,Milwaukee,0,4,43.05,-87.95,Sep,2019
+1515128,29-Sep-19,Florida,Jacksonville,0,4,30.33694,-81.66139,Sep,2019
+1517360,29-Sep-19,Kansas,Claflin,0,4,38.525,-98.53361,Sep,2019
+1515327,29-Sep-19,Texas,Beaumont,4,0,30.08,-94.12667,Sep,2019
+1511999,24-Sep-19,Illinois,Chicago,1,3,41.88194,-87.62778,Sep,2019
+1510411,23-Sep-19,Indiana,Gary,2,2,41.59556,-87.34528,Sep,2019
+1509721,22-Sep-19,Missouri,Kansas City,0,5,39.09972,-94.57833,Sep,2019
+1509411,21-Sep-19,Louisiana,New Orleans,0,4,29.95,-90.08,Sep,2019
+1508804,21-Sep-19,South Carolina,Lancaster,2,8,34.72111,-80.77333,Sep,2019
+1509510,21-Sep-19,Indiana,Indianapolis,0,6,39.76861,-86.15806,Sep,2019
+1512486,21-Sep-19,Ohio,Cleveland,4,0,41.48222,-81.66972,Sep,2019
+1508859,20-Sep-19,Louisiana,New Orleans,1,5,29.95,-90.08,Sep,2019
+1507939,19-Sep-19,District of Columbia,Washington,1,5,38.9072,-77.0369,Sep,2019
+1507156,18-Sep-19,Illinois,Chicago,3,1,41.88194,-87.62778,Sep,2019
+1507092,18-Sep-19,California,Wilmington,2,2,34.05,-118.25,Sep,2019
+1505354,16-Sep-19,Wyoming,Cheyenne,2,2,41.14,-104.82028,Sep,2019
+1504030,14-Sep-19,Missouri,Saint Louis,1,3,38.627,-90.1994,Sep,2019
+1504012,14-Sep-19,California,Oakland,1,4,37.80444,-122.27083,Sep,2019
+1504387,14-Sep-19,Georgia,Lagrange,0,4,33.03667,-85.03194,Sep,2019
+1503207,12-Sep-19,New Mexico,Albuquerque,1,4,35.11083,-106.61,Sep,2019
+1503192,12-Sep-19,New Mexico,Albuquerque,4,2,35.11083,-106.61,Sep,2019
+1501350,10-Sep-19,Illinois,Chicago,0,4,41.88194,-87.62778,Sep,2019
+1499460,8-Sep-19,South Carolina,Sumter,2,2,33.92694,-80.36361,Sep,2019
+1500098,8-Sep-19,Louisiana,Alexandria,1,3,31.29278,-92.45917,Sep,2019
+1499300,7-Sep-19,North Carolina,Whiteville,3,1,34.33,-78.70444,Sep,2019
+1497702,4-Sep-19,Louisiana,Marrero,2,2,29.88611,-90.11,Sep,2019
+1497180,4-Sep-19,Florida,Jacksonville,0,4,30.33694,-81.66139,Sep,2019
+1495192,2-Sep-19,Alabama,Elkmont,5,0,34.93,-86.97694,Sep,2019
+1494697,2-Sep-19,North Carolina,Greensboro,2,2,36.08,-79.81944,Sep,2019
+1495141,2-Sep-19,Illinois,Chicago,0,4,41.88194,-87.62778,Sep,2019
+1494113,1-Sep-19,Connecticut,Hartford,1,3,41.7625,-72.67417,Sep,2019
+1494669,1-Sep-19,North Carolina,Rocky Mount,0,4,35.93833,-77.79056,Sep,2019
+1494548,1-Sep-19,Alabama,Valley,0,7,32.81139,-85.17806,Sep,2019
+1493374,1-Sep-19,Ohio,Toledo,0,4,41.66556,-83.57528,Sep,2019
+1492441,31-Aug-19,Texas,Odessa,8,23,31.86333,-102.36556,Aug,2019
+1492778,31-Aug-19,North Carolina,Charlotte,1,3,35.22722,-80.84306,Aug,2019
+1492377,31-Aug-19,South Carolina,Moncks Corner,0,4,33.2,-80,Aug,2019
+1492264,31-Aug-19,Pennsylvania,Philadelphia,2,2,39.95278,-75.16361,Aug,2019
+1493429,31-Aug-19,Maryland,Baltimore,0,4,39.283,-76.617,Aug,2019
+1492297,31-Aug-19,Maryland,Frederick,0,4,39.41389,-77.41111,Aug,2019
+1493038,31-Aug-19,Illinois,Chicago,2,3,41.88194,-87.62778,Aug,2019
+1492087,30-Aug-19,Alabama,Mobile,0,6,30.69444,-88.04306,Aug,2019
+1491495,30-Aug-19,Maryland,Baltimore,1,3,39.283,-76.617,Aug,2019
+1490466,29-Aug-19,Maryland,Baltimore,1,3,39.283,-76.617,Aug,2019
+1487729,25-Aug-19,New Mexico,Hobbs,3,4,32.71222,-103.14056,Aug,2019
+1487573,25-Aug-19,Illinois,Chicago,1,3,41.88194,-87.62778,Aug,2019
+1487356,24-Aug-19,Maryland,Temple Hills (Camp Springs),0,7,38.81056,-76.94639,Aug,2019
+1487224,24-Aug-19,Massachusetts,Lynn,1,3,42.467,-70.95,Aug,2019
+1486232,23-Aug-19,Texas,Houston,3,2,29.76278,-95.38306,Aug,2019
+1489373,23-Aug-19,Georgia,Dublin,0,4,32.5375,-82.91833,Aug,2019
+1486675,23-Aug-19,Missouri,Saint Louis,1,3,38.627,-90.1994,Aug,2019
+1485340,22-Aug-19,South Carolina,Columbia,2,2,34.00056,-81.03472,Aug,2019
+1485548,22-Aug-19,California,Los Angeles,0,4,34.05,-118.25,Aug,2019
+1484335,20-Aug-19,Georgia,Atlanta,0,4,33.755,-84.39,Aug,2019
+1482199,18-Aug-19,Missouri,Kansas City,0,4,39.09972,-94.57833,Aug,2019
+1481989,17-Aug-19,Texas,Houston,0,6,29.76278,-95.38306,Aug,2019
+1480326,15-Aug-19,Alabama,Montgomery,2,3,32.36167,-86.27917,Aug,2019
+1479894,15-Aug-19,Pennsylvania,Philadelphia,0,5,39.95278,-75.16361,Aug,2019
+1478869,14-Aug-19,Pennsylvania,Philadelphia,0,6,39.95278,-75.16361,Aug,2019
+1479395,13-Aug-19,Washington,Tacoma,2,3,47.24139,-122.45944,Aug,2019
+1478480,12-Aug-19,Mississippi,Greenwood,0,4,33.51861,-90.18389,Aug,2019
+1475924,11-Aug-19,Illinois,Chicago,0,6,41.88194,-87.62778,Aug,2019
+1475361,10-Aug-19,Virginia,Richmond,0,4,37.533,-77.467,Aug,2019
+1476271,10-Aug-19,California,San Francisco,0,4,37.7749,-122.4194,Aug,2019
+1475208,9-Aug-19,Illinois,Chicago,0,4,41.88194,-87.62778,Aug,2019
+1472641,7-Aug-19,Missouri,Saint Louis,3,1,38.627,-90.1994,Aug,2019
+1469344,5-Aug-19,New York,Brooklyn,0,4,40.62472,-73.95222,Aug,2019
+1527721,4-Aug-19,Louisiana,Lake Charles,0,4,30.21472,-93.20861,Aug,2019
+1468190,4-Aug-19,Illinois,Chicago,1,7,41.88194,-87.62778,Aug,2019
+1468799,4-Aug-19,Tennessee,Memphis,1,3,35.1175,-89.97111,Aug,2019
+1468091,4-Aug-19,Illinois,Chicago,0,7,41.88194,-87.62778,Aug,2019
+1467828,4-Aug-19,Ohio,Dayton,10,17,39.75944,-84.19167,Aug,2019
+1466705,3-Aug-19,Texas,El Paso,22,24,31.75917,-106.48861,Aug,2019
+1467157,2-Aug-19,Virginia,Suffolk,2,3,36.7282,-76.5836,Aug,2019
+1462317,30-Jul-19,Ohio,Columbus,0,5,39.96222,-83.00056,Jul,2019
+1460630,28-Jul-19,Pennsylvania,Philadelphia,1,5,39.95278,-75.16361,Jul,2019
+1460448,28-Jul-19,California,Gilroy,4,17,37.01194,-121.58,Jul,2019
+1461352,28-Jul-19,Wisconsin,Chippewa Falls,5,2,44.933,-91.4,Jul,2019
+1459941,28-Jul-19,District of Columbia,Washington,0,4,38.9072,-77.0369,Jul,2019
+1460726,28-Jul-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jul,2019
+1459389,27-Jul-19,Kansas,Wichita,1,3,37.68889,-97.33611,Jul,2019
+1459718,27-Jul-19,New York,Brooklyn,1,11,40.62472,-73.95222,Jul,2019
+1459201,26-Jul-19,Washington,Kennewick,1,3,46.20361,-119.15917,Jul,2019
+1457165,25-Jul-19,California,Canoga Park,4,2,34.05,-118.25,Jul,2019
+1453327,21-Jul-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jul,2019
+1453884,21-Jul-19,District of Columbia,Washington,0,4,38.9072,-77.0369,Jul,2019
+1452654,20-Jul-19,Pennsylvania,Clairton,0,4,40.29639,-79.88722,Jul,2019
+1453350,20-Jul-19,Maryland,Baltimore,1,3,39.283,-76.617,Jul,2019
+1452617,20-Jul-19,Illinois,Chicago,0,7,41.88194,-87.62778,Jul,2019
+1450767,18-Jul-19,Illinois,Chicago,1,3,41.88194,-87.62778,Jul,2019
+1450124,17-Jul-19,Texas,Lubbock,1,3,33.57778,-101.89,Jul,2019
+1449602,16-Jul-19,Texas,San Antonio,0,4,29.425,-98.49389,Jul,2019
+1448578,15-Jul-19,Georgia,Atlanta,0,4,33.755,-84.39,Jul,2019
+1447456,14-Jul-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jul,2019
+1446611,13-Jul-19,Illinois,Chicago,1,4,41.88194,-87.62778,Jul,2019
+1447057,13-Jul-19,Pennsylvania,Philadelphia,0,7,39.95278,-75.16361,Jul,2019
+1445066,11-Jul-19,Texas,Houston,0,4,29.76278,-95.38306,Jul,2019
+1441967,8-Jul-19,District of Columbia,Washington,2,2,38.9072,-77.0369,Jul,2019
+1441565,7-Jul-19,Michigan,Flint,0,6,43.01889,-83.69333,Jul,2019
+1441613,7-Jul-19,Missouri,Saint Louis,0,5,38.627,-90.1994,Jul,2019
+1441396,7-Jul-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jul,2019
+1441296,7-Jul-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jul,2019
+1441317,7-Jul-19,New Mexico,Albuquerque,0,4,35.11083,-106.61,Jul,2019
+1441427,6-Jul-19,California,San Jose,0,4,37.333333,-121.9,Jul,2019
+1441721,6-Jul-19,Missouri,Saint Louis,5,0,38.627,-90.1994,Jul,2019
+1440510,5-Jul-19,Massachusetts,Boston,0,6,42.35806,-71.06361,Jul,2019
+1439593,5-Jul-19,Illinois,Chicago,0,5,41.88194,-87.62778,Jul,2019
+1440879,5-Jul-19,Nevada,Reno,1,3,39.52722,-119.82194,Jul,2019
+1440257,5-Jul-19,New York,Brooklyn,0,4,40.62472,-73.95222,Jul,2019
+1440765,4-Jul-19,Illinois,Rockford,0,4,42.25944,-89.06444,Jul,2019
+1438971,4-Jul-19,Illinois,Chicago,1,3,41.88194,-87.62778,Jul,2019
+1439737,4-Jul-19,California,Los Angeles,0,4,34.05,-118.25,Jul,2019
+1439765,4-Jul-19,California,Fresno,1,3,36.75,-119.767,Jul,2019
+1439042,3-Jul-19,Texas,Katy,2,3,29.7925,-95.8225,Jul,2019
+1438602,2-Jul-19,Missouri,Saint Louis (Wellston),0,4,38.627,-90.1994,Jul,2019
+1437094,1-Jul-19,Maryland,Baltimore,0,4,39.283,-76.617,Jul,2019
+1435804,30-Jun-19,California,Oakland,0,4,37.80444,-122.27083,Jun,2019
+1436545,30-Jun-19,California,Yucaipa,0,5,34.03361,-117.04306,Jun,2019
+1436254,30-Jun-19,Texas,Dallas,2,2,32.77917,-96.80889,Jun,2019
+1435578,30-Jun-19,New York,Bay Shore,0,6,40.72972,-73.25361,Jun,2019
+1435041,29-Jun-19,Connecticut,Hartford,0,4,41.7625,-72.67417,Jun,2019
+1435297,29-Jun-19,Louisiana,Gray,0,4,29.68111,-90.78139,Jun,2019
+1434931,29-Jun-19,Illinois,Chicago,0,5,41.88194,-87.62778,Jun,2019
+1435028,29-Jun-19,Louisiana,Baton Rouge,0,7,30.449493,-91.093399,Jun,2019
+1434882,28-Jun-19,New Jersey,Paterson,0,4,40.914746,-74.162826,Jun,2019
+1434602,28-Jun-19,Connecticut,Hamden,0,5,41.39778,-72.92167,Jun,2019
+1434971,28-Jun-19,Georgia,Atlanta,0,7,33.755,-84.39,Jun,2019
+1434893,28-Jun-19,New Jersey,Jersey City,0,4,40.714,-74.071,Jun,2019
+1435217,28-Jun-19,Minnesota,Saint Paul,0,5,44.94417,-93.09361,Jun,2019
+1432989,27-Jun-19,Georgia,Atlanta,0,7,33.755,-84.39,Jun,2019
+1432930,26-Jun-19,Ohio,Akron,1,3,41.07306,-81.51778,Jun,2019
+1433857,26-Jun-19,Wisconsin,Milwaukee,0,4,43.05,-87.95,Jun,2019
+1429475,23-Jun-19,California,La Jolla,1,3,32.84,-117.27694,Jun,2019
+1429810,23-Jun-19,California,San Jose,5,0,37.333333,-121.9,Jun,2019
+1429047,23-Jun-19,Indiana,South Bend,1,10,41.67639,-86.25028,Jun,2019
+1429480,23-Jun-19,Ohio,Columbus,0,5,39.96222,-83.00056,Jun,2019
+1429338,23-Jun-19,South Carolina,Abbeville,3,1,34.178544,-82.377687,Jun,2019
+1429399,22-Jun-19,Virginia,Hampton,0,4,37.0299,-76.3452,Jun,2019
+1429022,22-Jun-19,Pennsylvania,Philadelphia,0,4,39.95278,-75.16361,Jun,2019
+1428595,22-Jun-19,Maryland,Baltimore,1,4,39.283,-76.617,Jun,2019
+1428788,21-Jun-19,Michigan,Saginaw,1,3,43.41778,-83.96444,Jun,2019
+1427483,21-Jun-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jun,2019
+1428047,21-Jun-19,California,Santa Maria,5,0,34.95139,-120.43333,Jun,2019
+1428229,21-Jun-19,California,Richmond,0,5,37.93583,-122.34778,Jun,2019
+1426537,20-Jun-19,Pennsylvania,Allentown,0,10,40.60167,-75.47722,Jun,2019
+1425193,18-Jun-19,New Jersey,Newark,1,4,40.72,-74.17,Jun,2019
+1425161,17-Jun-19,Texas,San Antonio,0,4,29.425,-98.49389,Jun,2019
+1424957,17-Jun-19,Tennessee,Memphis,0,5,35.1175,-89.97111,Jun,2019
+1423697,16-Jun-19,Pennsylvania,Philadelphia,1,5,39.95278,-75.16361,Jun,2019
+1423330,16-Jun-19,Kentucky,Louisville,1,6,38.22533,-85.7417,Jun,2019
+1423435,16-Jun-19,Iowa,Des Moines,0,6,41.59083,-93.62083,Jun,2019
+1422981,15-Jun-19,Louisiana,Shreveport,0,4,32.51472,-93.74722,Jun,2019
+1420933,12-Jun-19,North Carolina,Charlotte,1,3,35.22722,-80.84306,Jun,2019
+1419305,11-Jun-19,Colorado,Aurora,0,4,39.71083,-104.8125,Jun,2019
+1420432,11-Jun-19,Georgia,Savannah,2,2,32.017,-81.117,Jun,2019
+1418533,9-Jun-19,Ohio,Cleveland,1,3,41.48222,-81.66972,Jun,2019
+1418548,9-Jun-19,New York,Buffalo,0,4,42.90472,-78.84944,Jun,2019
+1418457,9-Jun-19,Tennessee,Henning,1,3,35.67361,-89.5775,Jun,2019
+1418180,8-Jun-19,Washington,White Swan,5,2,46.39444,-120.70306,Jun,2019
+1417570,8-Jun-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jun,2019
+1417716,7-Jun-19,Texas,Austin,0,5,30.26722,-97.74306,Jun,2019
+1416374,6-Jun-19,Illinois,Chicago,1,3,41.88194,-87.62778,Jun,2019
+1415399,5-Jun-19,California,Santa Rosa,0,4,38.44861,-122.70472,Jun,2019
+1412419,1-Jun-19,South Carolina,Allendale,0,5,33.00889,-81.30861,Jun,2019
+1411598,1-Jun-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jun,2019
+1411408,1-Jun-19,Virginia,Portsmouth,1,3,36.8354,-76.2983,Jun,2019
+1412243,1-Jun-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jun,2019
+1411963,1-Jun-19,Georgia,Atlanta,0,5,33.755,-84.39,Jun,2019
+1412430,1-Jun-19,Georgia,Macon,2,4,32.83472,-83.65167,Jun,2019
+1410442,31-May-19,Virginia,Virginia Beach,13,4,36.8529,-75.978,May,2019
+1411661,31-May-19,California,West Covina,1,3,34.05667,-117.91861,May,2019
+1410329,30-May-19,Illinois,Robbins,0,5,41.64306,-87.70806,May,2019
+1408289,29-May-19,Texas,Cleveland,3,2,30.345,-95.08361,May,2019
+1409255,29-May-19,Louisiana,Reserve,1,3,30.0625,-90.55333,May,2019
+1407941,27-May-19,Missouri,Saint Louis,2,2,38.627,-90.1994,May,2019
+1406330,27-May-19,District of Columbia,Washington,0,5,38.9072,-77.0369,May,2019
+1407189,27-May-19,New Jersey,Trenton,1,5,40.223748,-74.764001,May,2019
+1405445,26-May-19,District of Columbia,Washington,1,3,38.9072,-77.0369,May,2019
+1405749,26-May-19,Virginia,La Crosse,0,5,36.69722,-78.09222,May,2019
+1406070,26-May-19,California,Stockton,1,3,37.97556,-121.30083,May,2019
+1404417,25-May-19,New Jersey,Trenton,0,9,40.223748,-74.764001,May,2019
+1404580,25-May-19,Michigan,Detroit,3,2,42.33139,-83.04583,May,2019
+1405196,25-May-19,Virginia,Chesapeake,1,9,37.5214,-76.6122,May,2019
+1405317,25-May-19,Maryland,Baltimore,0,4,39.283,-76.617,May,2019
+1405221,25-May-19,Oklahoma,Oklahoma City,0,5,35.46861,-97.52139,May,2019
+1400095,20-May-19,Oklahoma,Tulsa,2,2,36.13139,-95.93722,May,2019
+1400146,20-May-19,Louisiana,Alexandria,1,4,31.29278,-92.45917,May,2019
+1400561,20-May-19,Ohio,Columbus,0,4,39.96222,-83.00056,May,2019
+1399820,19-May-19,Oregon,Portland,0,5,45.52,-122.68194,May,2019
+1399017,18-May-19,Mississippi,Cascilla,1,4,33.856701,-90.004204,May,2019
+1398553,18-May-19,Alabama,Atmore,1,8,31.02306,-87.49194,May,2019
+1398584,18-May-19,Iowa,Cedar Rapids,2,2,41.98306,-91.66861,May,2019
+1398538,18-May-19,Indiana,Muncie,1,6,40.19333,-85.38806,May,2019
+1398593,18-May-19,California,Long Beach,1,4,33.76833,-118.19556,May,2019
+1400934,18-May-19,Nebraska,Omaha,0,4,41.25,-96,May,2019
+1399346,18-May-19,North Carolina,Winston Salem (Winston-salem),2,4,36.1027639,-80.2604917,May,2019
+1398876,17-May-19,California,Sacramento,1,3,38.58167,-121.49444,May,2019
+1397521,16-May-19,Ohio,Cleveland,0,4,41.48222,-81.66972,May,2019
+1396491,15-May-19,Louisiana,Saint Rose,0,4,29.96056,-90.31306,May,2019
+1395560,14-May-19,California,Los Angeles,0,4,34.05,-118.25,May,2019
+1393960,13-May-19,Louisiana,New Orleans,0,4,29.95,-90.08,May,2019
+1394330,13-May-19,Missouri,Saint Louis,4,1,38.627,-90.1994,May,2019
+1392923,11-May-19,Pennsylvania,Effort,0,4,40.93917,-75.435,May,2019
+1391971,10-May-19,Pennsylvania,Philadelphia,0,5,39.95278,-75.16361,May,2019
+1392313,10-May-19,Missouri,Saint Louis,0,6,38.627,-90.1994,May,2019
+1390764,8-May-19,Indiana,Indianapolis,0,4,39.76861,-86.15806,May,2019
+1389220,7-May-19,Colorado,Littleton (Highlands Ranch),1,8,39.59972,-105.01083,May,2019
+1386962,5-May-19,New Jersey,North Bergen,1,4,40.794175,-74.02496,May,2019
+1387170,5-May-19,California,Oceano,0,6,35.10278,-120.61139,May,2019
+1386510,4-May-19,Missouri,Saint Louis,1,4,38.627,-90.1994,May,2019
+1386929,4-May-19,Indiana,Indianapolis,0,4,39.76861,-86.15806,May,2019
+1387245,4-May-19,California,Stockton,1,4,37.97556,-121.30083,May,2019
+1386575,4-May-19,Delaware,Wilmington,0,4,39.74583,-75.54667,May,2019
+1386481,3-May-19,Texas,Dallas,1,3,32.77917,-96.80889,May,2019
+1386085,3-May-19,Maryland,Baltimore,0,5,39.283,-76.617,May,2019
+1385642,3-May-19,Maryland,Baltimore,0,4,39.283,-76.617,May,2019
+1384553,1-May-19,Massachusetts,Boston,1,3,42.35806,-71.06361,May,2019
+1383752,30-Apr-19,North Carolina,Charlotte,2,4,35.22722,-80.84306,Apr,2019
+1381857,28-Apr-19,Tennessee,Nashville,0,7,36.16667,-86.78333,Apr,2019
+1382099,28-Apr-19,Alabama,Birmingham,0,4,33.65333,-86.80889,Apr,2019
+1381979,28-Apr-19,Maryland,Baltimore,1,7,39.283,-76.617,Apr,2019
+1382711,28-Apr-19,Ohio,West Chester,4,0,39.3529,-84.3647,Apr,2019
+1381771,27-Apr-19,Mississippi,Jackson,1,3,32.29889,-90.18472,Apr,2019
+1381273,27-Apr-19,California,Poway,1,3,32.97,-117.03861,Apr,2019
+1381734,27-Apr-19,California,Los Angeles,0,6,34.05,-118.25,Apr,2019
+1377519,21-Apr-19,Pennsylvania,Philadelphia,0,4,39.95278,-75.16361,Apr,2019
+1376873,20-Apr-19,Tennessee,Memphis,0,5,35.1175,-89.97111,Apr,2019
+1376626,20-Apr-19,Texas,Corpus Christi,0,4,27.74278,-97.40194,Apr,2019
+1376883,19-Apr-19,Kansas,Wichita,0,4,37.68889,-97.33611,Apr,2019
+1375235,18-Apr-19,Kentucky,Louisville,0,4,38.22533,-85.7417,Apr,2019
+1373557,16-Apr-19,Maryland,Germantown,1,3,39.18333,-77.26667,Apr,2019
+1371065,14-Apr-19,California,Stockton,0,4,37.97556,-121.30083,Apr,2019
+1370795,14-Apr-19,Florida,Miami,2,2,25.77528,-80.20889,Apr,2019
+1371024,14-Apr-19,California,Vallejo,1,3,38.11306,-122.23583,Apr,2019
+1374920,13-Apr-19,California,Moreno Valley,0,4,33.94306,-117.22833,Apr,2019
+1370269,12-Apr-19,Illinois,Carbondale,0,4,37.726,-89.22,Apr,2019
+1368597,11-Apr-19,Maryland,Baltimore,1,3,39.283,-76.617,Apr,2019
+1369109,11-Apr-19,California,Los Angeles,1,4,34.05,-118.25,Apr,2019
+1369148,11-Apr-19,Arizona,Phoenix,3,2,33.45,-112.067,Apr,2019
+1367011,9-Apr-19,Missouri,Kansas City,1,3,39.09972,-94.57833,Apr,2019
+1365077,7-Apr-19,Indiana,Indianapolis,2,2,39.76861,-86.15806,Apr,2019
+1365052,7-Apr-19,North Carolina,Winston Salem (Winston-salem),0,7,36.1027639,-80.2604917,Apr,2019
+1365173,7-Apr-19,Delaware,Wilmington,0,6,39.74583,-75.54667,Apr,2019
+1365100,7-Apr-19,Louisiana,Shreveport,0,4,32.51472,-93.74722,Apr,2019
+1364443,6-Apr-19,Florida,Tallahassee,0,4,30.455,-84.25333,Apr,2019
+1364540,6-Apr-19,Illinois,Chicago,0,6,41.88194,-87.62778,Apr,2019
+1363737,4-Apr-19,Florida,Panama City,1,3,30.17444,-85.66444,Apr,2019
+1362715,4-Apr-19,Georgia,Stockbridge,3,2,33.53417,-84.23111,Apr,2019
+1362364,2-Apr-19,Mississippi,Hermanville,0,4,31.95944,-90.84,Apr,2019
+1362182,2-Apr-19,Kentucky,Covington,0,5,39.08361,-84.50861,Apr,2019
+1359455,31-Mar-19,Illinois,Chicago,1,4,41.88194,-87.62778,Mar,2019
+1360333,31-Mar-19,Georgia,Atlanta,1,4,33.755,-84.39,Mar,2019
+1359599,31-Mar-19,South Carolina,North Charleston,0,7,32.88528,-80.01694,Mar,2019
+1357591,28-Mar-19,Maryland,Baltimore,0,4,39.283,-76.617,Mar,2019
+1355275,25-Mar-19,Nevada,North Las Vegas,0,5,36.22861,-115.14667,Mar,2019
+1353714,24-Mar-19,California,San Francisco,1,5,37.7749,-122.4194,Mar,2019
+1354049,24-Mar-19,Arizona,Phoenix,0,7,33.45,-112.067,Mar,2019
+1350494,19-Mar-19,Arizona,Phoenix,2,4,33.45,-112.067,Mar,2019
+1348844,17-Mar-19,Georgia,Augusta,0,4,33.467,-81.967,Mar,2019
+1349256,17-Mar-19,Georgia,Rochelle,1,3,31.94889,-83.45389,Mar,2019
+1348793,17-Mar-19,Nevada,Las Vegas,0,4,36.175,-115.13639,Mar,2019
+1347974,16-Mar-19,New Jersey,Camden,1,3,39.94,-75.105,Mar,2019
+1348291,15-Mar-19,Alabama,Mobile,2,4,30.69444,-88.04306,Mar,2019
+1347894,14-Mar-19,Montana,Missoula,1,3,46.8625,-114.01167,Mar,2019
+1344488,11-Mar-19,New Jersey,Paterson,0,4,40.914746,-74.162826,Mar,2019
+1343330,10-Mar-19,Louisiana,Shreveport,0,4,32.51472,-93.74722,Mar,2019
+1343274,10-Mar-19,Colorado,Denver,1,4,39.7392,-104.9903,Mar,2019
+1338860,3-Mar-19,California,Oakland,0,4,37.80444,-122.27083,Mar,2019
+1338765,3-Mar-19,Illinois,Chicago,0,6,41.88194,-87.62778,Mar,2019
+1338790,2-Mar-19,Arkansas,Pine Bluff,1,4,34.211583,-92.017778,Mar,2019
+1337498,28-Feb-19,California,Oakland,1,3,37.80444,-122.27083,Feb,2019
+1333480,22-Feb-19,Alabama,Birmingham,2,2,33.65333,-86.80889,Feb,2019
+1331974,21-Feb-19,Maryland,Baltimore,1,4,39.283,-76.617,Feb,2019
+1332507,21-Feb-19,Kentucky,Elizabethtown,2,2,37.7,-85.867,Feb,2019
+1332429,21-Feb-19,Texas,Houston,2,2,29.76278,-95.38306,Feb,2019
+1332181,20-Feb-19,Tennessee,Covington,0,4,35.56417,-89.64639,Feb,2019
+1329144,17-Feb-19,Texas,Henderson,2,2,32.15389,-94.80278,Feb,2019
+1328792,17-Feb-19,Indiana,Evansville,0,5,37.97722,-87.55056,Feb,2019
+1329075,17-Feb-19,Louisiana,New Orleans,1,5,29.95,-90.08,Feb,2019
+1328562,16-Feb-19,Mississippi,Clinton,5,0,32.34167,-90.32167,Feb,2019
+1327321,15-Feb-19,Illinois,Aurora,6,6,41.76389,-88.29,Feb,2019
+1324279,11-Feb-19,Texas,Livingston,5,0,30.70944,-94.93444,Feb,2019
+1323448,9-Feb-19,Virginia,Petersburg,0,4,37.2279,-77.4019,Feb,2019
+1321021,6-Feb-19,New York,Brooklyn,1,3,40.62472,-73.95222,Feb,2019
+1321093,5-Feb-19,Texas,San Antonio,2,2,29.425,-98.49389,Feb,2019
+1319333,4-Feb-19,District of Columbia,Washington,0,5,38.9072,-77.0369,Feb,2019
+1319325,4-Feb-19,Louisiana,Baton Rouge,0,4,30.449493,-91.093399,Feb,2019
+1318391,3-Feb-19,Illinois,Chicago,2,5,41.88194,-87.62778,Feb,2019
+1320286,3-Feb-19,California,Palm Springs,4,0,33.83028,-116.54528,Feb,2019
+1318187,1-Feb-19,California,San Diego,0,4,32.715,-117.1625,Feb,2019
+1314289,28-Jan-19,Texas,Houston,2,5,29.76278,-95.38306,Jan,2019
+1314253,27-Jan-19,Alabama,Birmingham,0,5,33.65333,-86.80889,Jan,2019
+1312391,26-Jan-19,Georgia,Albany,0,4,31.58222,-84.16556,Jan,2019
+1312284,26-Jan-19,Louisiana,Gonzales,5,0,30.22722,-90.91972,Jan,2019
+1312463,26-Jan-19,Indiana,Indianapolis,0,5,39.76861,-86.15806,Jan,2019
+1313291,26-Jan-19,New Jersey,Newark,1,3,40.72,-74.17,Jan,2019
+1310775,24-Jan-19,Pennsylvania,State College,4,1,40.79139,-77.85861,Jan,2019
+1310397,24-Jan-19,Georgia,Rockmart,4,1,34.00389,-85.04917,Jan,2019
+1309114,23-Jan-19,Florida,Sebring,5,0,27.49556,-81.44444,Jan,2019
+1306920,20-Jan-19,Florida,Miami,0,4,25.77528,-80.20889,Jan,2019
+1305563,19-Jan-19,Pennsylvania,Lebanon,0,4,40.34167,-76.42083,Jan,2019
+1305679,19-Jan-19,South Carolina,Gaffney,1,4,35.07194,-81.65306,Jan,2019
+1305516,19-Jan-19,Illinois,Chicago,0,4,41.88194,-87.62778,Jan,2019
+1305538,19-Jan-19,Florida,Jacksonville,3,2,30.33694,-81.66139,Jan,2019
+1305294,19-Jan-19,Texas,Houston,3,2,29.76278,-95.38306,Jan,2019
+1303486,17-Jan-19,Kentucky,Owensboro,3,1,37.75778,-87.11833,Jan,2019
+1302060,16-Jan-19,Florida,Jacksonville,1,5,30.33694,-81.66139,Jan,2019
+1303303,16-Jan-19,California,Palmdale,3,1,34.58111,-118.10056,Jan,2019
+1301778,15-Jan-19,Arkansas,Little Rock,1,4,34.73611,-92.33111,Jan,2019
+1299680,13-Jan-19,Arizona,Phoenix,1,5,33.45,-112.067,Jan,2019
+1295294,6-Jan-19,New Mexico,Roswell,0,4,33.38722,-104.52806,Jan,2019
+1292684,4-Jan-19,Virginia,Hurt,3,2,37.095,-79.29833,Jan,2019
+1293054,4-Jan-19,California,Torrance,3,4,33.83472,-118.34139,Jan,2019
+1292941,3-Jan-19,Arizona,Yuma,1,3,32.69222,-114.61528,Jan,2019
+1291779,2-Jan-19,Arkansas,Jonesboro,1,3,35.82806,-90.69417,Jan,2019
+1289877,1-Jan-19,South Carolina,Columbia,0,5,34.00056,-81.03472,Jan,2019
